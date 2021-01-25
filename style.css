@@ -53,9 +53,9 @@ body {
 
 .top {
     height: 40vh;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35)), url(back.png);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35)), url(/img/UN\ Photo\ John\ Isaac_5577595750_b0201b8d83_c.jpg);
     background-size: cover;
-    background-position: center;
+    background-position: top;
     position: relative;
 }
 
